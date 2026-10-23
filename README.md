@@ -1,40 +1,5 @@
 <div align="center">
 
-# UNIVERSIDAD TECNOLÓGICA DE PANAMÁ
-**Facultad de Ingeniería en Sistemas Computacionales**
-
-<br>
-
-**Nombre:**<br>
-David Moreno
-
-**Tema:**<br>
-Laboratorio #2 – Login y Registro en Laravel
-
-**Carrera:**<br>
-Ciberseguridad
-
-**Asignatura:**<br>
-Desarrollo Web
-
-**Facilitador:**<br>
-Irina Fong
-
-**Grupo:**<br>
-1S3122
-
-**Fecha de entrega:**<br>
-16 de octubre de 2026
-
-**Repositorio del laboratorio:**<br>
-https://github.com/D4m0p/documentacion-del-laravel-.git
-
-</div>
-
----
-
-<div align="center">
-
 # 🔐 Laboratorio #2 – Login y Registro en Laravel
 
 **Universidad Tecnológica de Panamá**<br>
